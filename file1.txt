@@ -1,2 +1,3 @@
 welcome test
 to arubatraining
+new feature
